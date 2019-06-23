@@ -1,2 +1,2 @@
-# amazonShop
-A basic shop concept created through the use of the Amazon API
+# indecisionApp 
+An application that assists the user to decide on a subject.
